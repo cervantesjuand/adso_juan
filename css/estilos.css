@@ -8,3 +8,14 @@ h1{
     color: red;
     text-align: center;
 }
+
+.tipografia1{
+    font-family: game;
+    text-align: center;
+    color: blue;
+}
+
+@font-face {
+    font-family: game;
+    src: url("Game of thrones");
+}
